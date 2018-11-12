@@ -1,1 +1,1 @@
-#lucas2502.hithub.io
+#lucas2502.github.io
